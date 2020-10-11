@@ -1,0 +1,3 @@
+@Imports VisualStudioGitHub.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
